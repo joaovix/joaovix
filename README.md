@@ -23,4 +23,11 @@
      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
        alt="Python" align ="center">
 
-</div>
+</div><br>
+
+Sou analista de sistemas e advogado com grande paixão pela educação. Adoro ensinar e compartilhar conhecimento, principalmente quando se trata da integração entre a tecnologia e o direito.
+
+## Últimos Videos:
+- [Como ter o Twitter Spaces](https://www.youtube.com/watch?v=v6Cuz_UbMPg)<br>
+- [Robô que curte a live](https://www.youtube.com/watch?v=m7ZAyIqRJUQ)<br>
+- [Moedas mais barato no tiktok](https://www.youtube.com/watch?v=qjzozYPFB-s)<br>
